@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i(TAG, "onCreate: ");
         Log.i(TAG, "onCreate: ");
+
+        Log.i(TAG, "My Tag: onCreate");
     }
 }
